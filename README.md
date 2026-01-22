@@ -83,7 +83,7 @@ Email-based ETL pipelines
 
 📄 Documentation
 
-Detailed project explanation available in 
+Detailed project explanation available in https://github.com/ARYANSHINGALA/Append-Excel-Data-from-Gmail-Attachments/blob/main/Gmail%20to%20PowerQuery%20-%20Append%20Excel%20Files.pdf
 
 👤 Author
 
